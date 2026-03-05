@@ -39,7 +39,7 @@ Calculated Business Metrics:
 - Profit = 20% of Total Sales  
 - Cost = 80% of Total Sales  
 
-## Business KPI Analysis
+### Business KPI Analysis
 
 Aggregation functions used:
 - SUM()
