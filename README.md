@@ -39,8 +39,6 @@ Calculated Business Metrics:
 - Profit = 20% of Total Sales  
 - Cost = 80% of Total Sales  
 
----
-
 ## Business KPI Analysis
 
 Aggregation functions used:
@@ -62,7 +60,7 @@ Business Insights Analysis:
 - Top 5 products by revenue  
 - Order status distribution  
 
-### 3. Dashboard Development (Power BI)
+### 2. Dashboard Development (Power BI)
 - Created DAX measures for KPIs
 - Designed interactive KPI cards
 - Built monthly trend analysis
